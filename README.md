@@ -4,5 +4,5 @@
 
 本仓库含有项目演示视频。
 
-[作品访问链接]([https://www.baidu.com](https://www.bilibili.com/video/BV1QCTWzdEiJ/?spm_id_from=333.1387.upload.video_card.click) "作品详情见B站视频链接")
+[作品访问链接](https://www.bilibili.com/video/BV1QCTWzdEiJ/?spm_id_from=333.1387.upload.video_card.click) "作品详情见B站视频链接")
 
